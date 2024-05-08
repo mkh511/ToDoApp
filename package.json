@@ -1,6 +1,6 @@
 {
   "name":"mkhtodoapp",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A Simple cli based ToDo App",
   "main": "main.js",
   "type": "module",
